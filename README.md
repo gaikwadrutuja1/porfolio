@@ -171,7 +171,7 @@ footer {
         <p>I’m Ashish, an aspiring lawyer passionate about justice and advocating for clients’ rights. Currently studying law at [University Name], I specialize in [specific areas of law]. My focus is on developing strong legal research, writing, and advocacy skills. I’m committed to using the law to create positive change and help those in need. I look forward to a career where I can make a meaningful impact in the legal field.
 
             ...</p>
-        <img src="D:\Rutuja\Pictures\ashish.jpg" alt="Your Photo" />
+        <img src="ashish.jpg" alt="Your Photo" />
     </section>
 
     <!-- Projects Section -->
