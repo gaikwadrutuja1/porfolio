@@ -1,12 +1,11 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Your Name - Portfolio</title>
 <style>
-  /* Reset some default styles */
-* {
+  {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -167,7 +166,6 @@ footer {
         <button><a href="tel:+17666544133"><b>Contact Me</b></a></button>
     </section>
 
-    <!-- About Section -->
     <section id="about" class="about">
         <h2><b>About Me</b></h2>
         <p>I’m Ashish, an aspiring lawyer passionate about justice and advocating for clients’ rights. Currently studying law at [University Name], I specialize in [specific areas of law]. My focus is on developing strong legal research, writing, and advocacy skills. I’m committed to using the law to create positive change and help those in need. I look forward to a career where I can make a meaningful impact in the legal field.
