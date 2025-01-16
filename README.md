@@ -193,7 +193,7 @@ footer {
     <!-- Contact Section -->
     <section id="contact" class="contact">
         <h2>Contact Me</h2>
-        <form action="mailto:your-email@example.com" method="post" enctype="text/plain">
+        <form action="rutujagaikwad062003@gmail.com" method="post" enctype="text/plain">
             <label for="name">Name:</label>
             <input type="text" id="name" name="name" required>
             <label for="email">Email:</label>
